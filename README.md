@@ -40,11 +40,9 @@
    ```
 
 5. **Install the required dependencies:**
-
    ```bash
    pip install -r requirements.txt
    ```
-
 6. **Enter SendGrid API key and email in below given file (for forgot password functionality optional)**
 
 ```bash
