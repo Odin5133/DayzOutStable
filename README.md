@@ -1,3 +1,5 @@
+LinkedIN Post: https://www.linkedin.com/posts/anish-patade-197967242_socialmedia-reactjs-django-activity-7231110127217442816-Rhnr?utm_source=share&utm_medium=member_desktop 
+
 # DayzOutStable
 
 **DayzOut** is a social media platform built using React for the frontend and Django for the backend. This project allows users to sign up, log in, create and interact with posts, follow other users, and more.
